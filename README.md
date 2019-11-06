@@ -18,35 +18,36 @@ Game is built using Unity, updated to version 2018.3.14f1.
 
 ## Credits
 ### Gameplay Design & Programming <br>
-Isaac Tran <br>
+    Isaac Tran 
 
 ### Art <br>
-Isaac Tran <br>
-Kyle Vu <br>
+    Isaac Tran
+    Kyle Vu 
 
 ### Playtesting <br>
-Krystal Can <br>
-Kat Quach <br>
+    Krystal Can 
+    Kat Quach 
 
 ### Sounds <br>
 
 #### SFX from Freesound.org: <br>
 
-[Gun shot]   by [schots]  (https://freesound.org/people/schots/sounds/382735/) <br>
+    [Gun shot] by [schots] 
+    (https://freesound.org/people/schots/sounds/382735/) 
 
-[Gun Shot.wav]  by [Bird_man]  (https://freesound.org/people/Bird_man/
-sounds/275151/) <br>
+    [Gun Shot.wav] by [Bird_man] 
+    (https://freesound.org/people/Bird_man/sounds/275151/) 
 
-[Woosh Noise 1.wav] by [potentjello](https://freesound.org/people/potentjello/
-sounds/194081/) <br>
+    [Woosh Noise 1.wav] by [potentjello] 
+    (https://freesound.org/people/potentjello/sounds/194081/) 
     
 #### BGM: [Corruption] by [Kevin MacLeod] <br>
 
-Corruption Kevin MacLeod (incompetech.com) <br>
+    Corruption Kevin MacLeod (incompetech.com) 
 
-Licensed under Creative Commons: By Attribution 3.0 <br>
+    Licensed under Creative Commons: By Attribution 3.0 >
 
-http://creativecommons.org/licenses/by/3.0/ <br>
+    http://creativecommons.org/licenses/by/3.0/ 
 
 ## Controls <br>
 ### Player 1: <br>
@@ -60,4 +61,4 @@ http://creativecommons.org/licenses/by/3.0/ <br>
     Shoot: 		        Right Shift <br>
     Switch weapons: 	Slash (/) <br>
 
-Thank you for playing!
+## Thank you for playing!
