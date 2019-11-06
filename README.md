@@ -29,7 +29,8 @@ Krystal Can <br>
 Kat Quach <br>
 
 ### Sounds <br>
-SFX from Freesound.org: <br>
+
+#### SFX from Freesound.org: <br>
 
 [Gun shot]   by [schots]  (https://freesound.org/people/schots/sounds/382735/) <br>
 
@@ -39,7 +40,7 @@ sounds/275151/) <br>
 [Woosh Noise 1.wav] by [potentjello](https://freesound.org/people/potentjello/
 sounds/194081/) <br>
     
-BGM: [Corruption] by [Kevin MacLeod] <br>
+#### BGM: [Corruption] by [Kevin MacLeod] <br>
 
 Corruption Kevin MacLeod (incompetech.com) <br>
 
