@@ -2,7 +2,7 @@
 2-player platformer shooter. With penguins. 
 
 ## How to get the game
-    Please download both files and put them in the same folder. Then you can extract them with WINRAR.
+Please download both files and put them in the same folder. Then you can extract them with WINRAR.
     
 ## Introduction
 Hi! Isaac here. 
@@ -17,30 +17,30 @@ Bring in your friends and have fun! :D
 Game is built using Unity, updated to version 2018.3.14f1.
 
 ## Credits
-Gameplay Design & Programming
-	Isaac Tran
+### Gameplay Design & Programming <br>
+	Isaac Tran <br>
 
-Art
-	Isaac Tran
-	Kyle Vu
+### Art <br>
+	Isaac Tran <br>
+	Kyle Vu <br>
 
-Playtesting
-	Krystal Can
-	Kat Quach
+### Playtesting <br>
+	Krystal Can <br>
+	Kat Quach <br>
 
-Sounds
-	SFX from Freesound.org:
-		[Gun shot]   by [schots]  (https://freesound.org/people/schots/sounds/382735/)
+### Sounds <br>
+	SFX from Freesound.org: <br>
+		[Gun shot]   by [schots]  (https://freesound.org/people/schots/sounds/382735/) <br>
 		[Gun Shot.wav]  by [Bird_man]  (https://freesound.org/people/Bird_man/
-		sounds/275151/)
+		sounds/275151/) <br>
 		[Woosh Noise 1.wav] by [potentjello](https://freesound.org/people/potentjello/
-		sounds/194081/)
-	BGM: [Corruption] by [Kevin MacLeod]
-		Corruption Kevin MacLeod (incompetech.com)
-		Licensed under Creative Commons: By Attribution 3.0
-		http://creativecommons.org/licenses/by/3.0/
+		sounds/194081/) <br>
+	BGM: [Corruption] by [Kevin MacLeod] <br>
+		Corruption Kevin MacLeod (incompetech.com) <br>
+		Licensed under Creative Commons: By Attribution 3.0 <br>
+		http://creativecommons.org/licenses/by/3.0/ <br>
 
-## Controls
+## Controls <br>
   Player 1:
     Move Left/Right: 	A, D
     Jump: 		W
