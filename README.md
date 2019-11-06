@@ -2,7 +2,7 @@
 2-player platformer shooter. With penguins. 
 
 ## How to get the game
-Please download both files and put them in the same folder. Then you can extract them with WINRAR.
+Please download the two zip files above and put them in the same folder. You can then extract them with WINRAR.
     
 ## Introduction
 Hi! Isaac here. 
