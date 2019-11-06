@@ -31,17 +31,21 @@ Kat Quach <br>
 ### Sounds <br>
 SFX from Freesound.org: <br>
 
-    [Gun shot]   by [schots]  (https://freesound.org/people/schots/sounds/382735/) <br>
-    [Gun Shot.wav]  by [Bird_man]  (https://freesound.org/people/Bird_man/
-    sounds/275151/) <br>
-    [Woosh Noise 1.wav] by [potentjello](https://freesound.org/people/potentjello/
-    sounds/194081/) <br>
+[Gun shot]   by [schots]  (https://freesound.org/people/schots/sounds/382735/) <br>
+
+[Gun Shot.wav]  by [Bird_man]  (https://freesound.org/people/Bird_man/
+sounds/275151/) <br>
+
+[Woosh Noise 1.wav] by [potentjello](https://freesound.org/people/potentjello/
+sounds/194081/) <br>
     
 BGM: [Corruption] by [Kevin MacLeod] <br>
 
-    Corruption Kevin MacLeod (incompetech.com) <br>
-    Licensed under Creative Commons: By Attribution 3.0 <br>
-    http://creativecommons.org/licenses/by/3.0/ <br>
+Corruption Kevin MacLeod (incompetech.com) <br>
+
+Licensed under Creative Commons: By Attribution 3.0 <br>
+
+http://creativecommons.org/licenses/by/3.0/ <br>
 
 ## Controls <br>
 ### Player 1: <br>
