@@ -51,14 +51,14 @@ Game is built using Unity, updated to version 2018.3.14f1.
 
 ## Controls <br>
 ### Player 1: <br>
-    Move Left/Right: 	A, D <br>
-    Jump: 		        W <br>
-    Shoot: 		        Left Shift <br>
-    Switch weapons: 	Q <br>
+    Move Left/Right: 	A, D 
+    Jump: 		        W 
+    Shoot: 		        Left Shift 
+    Switch weapons: 	Q 
 ### Player 2: <br>
-    Move Left/Right: 	Left Arrow, Right Arrow <br>
-    Jump: 		        Up Arrow <br>
-    Shoot: 		        Right Shift <br>
-    Switch weapons: 	Slash (/) <br>
+    Move Left/Right: 	Left Arrow, Right Arrow 
+    Jump: 		        Up Arrow 
+    Shoot: 		        Right Shift 
+    Switch weapons: 	Slash (/) 
 
 ## Thank you for playing!
